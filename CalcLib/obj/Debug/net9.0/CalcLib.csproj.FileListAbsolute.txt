@@ -1,0 +1,11 @@
+C:\Users\kosty\source\repos\TEST_LAB_1\CalcLib\bin\Debug\net9.0\CalcLib.deps.json
+C:\Users\kosty\source\repos\TEST_LAB_1\CalcLib\bin\Debug\net9.0\CalcLib.dll
+C:\Users\kosty\source\repos\TEST_LAB_1\CalcLib\bin\Debug\net9.0\CalcLib.pdb
+C:\Users\kosty\source\repos\TEST_LAB_1\CalcLib\obj\Debug\net9.0\CalcLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosty\source\repos\TEST_LAB_1\CalcLib\obj\Debug\net9.0\CalcLib.AssemblyInfoInputs.cache
+C:\Users\kosty\source\repos\TEST_LAB_1\CalcLib\obj\Debug\net9.0\CalcLib.AssemblyInfo.cs
+C:\Users\kosty\source\repos\TEST_LAB_1\CalcLib\obj\Debug\net9.0\CalcLib.csproj.CoreCompileInputs.cache
+C:\Users\kosty\source\repos\TEST_LAB_1\CalcLib\obj\Debug\net9.0\CalcLib.dll
+C:\Users\kosty\source\repos\TEST_LAB_1\CalcLib\obj\Debug\net9.0\refint\CalcLib.dll
+C:\Users\kosty\source\repos\TEST_LAB_1\CalcLib\obj\Debug\net9.0\CalcLib.pdb
+C:\Users\kosty\source\repos\TEST_LAB_1\CalcLib\obj\Debug\net9.0\ref\CalcLib.dll
